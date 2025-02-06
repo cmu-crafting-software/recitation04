@@ -1,0 +1,6 @@
+[project]
+name = "recitation04"
+version = "0.0.0"
+classifiers = ["Private :: Do Not Upload"]
+requires-python = ">=3.12"
+dependencies = ["pytest"]
